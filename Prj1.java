@@ -1,3 +1,5 @@
+//sum of digits
+
 class Prj1
 {
    public static void main(String args[])
